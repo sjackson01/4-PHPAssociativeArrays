@@ -1,7 +1,7 @@
 <?php
 
 /* 
-   !Arrays Associative!
+   !Array Associative!
    Seperate blocks of code.
    Move the comment arrows
    in order review by section.  
