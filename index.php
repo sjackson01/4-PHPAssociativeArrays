@@ -3,7 +3,7 @@
 /* 
    !Array Associative!
    Seperate blocks of code.
-   Move the comment arrows
+   Move comment arrows
    in order review by section.  
 */
 
